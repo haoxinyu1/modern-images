@@ -9,5 +9,22 @@
     "enabled": true,
     "tokens": [],
     "defaultFormat": "original"
+  },
+  "storage": {
+    "type": "local",
+    "r2": {
+      "enabled": false,
+      "accessKeyId": "",
+      "secretAccessKey": "",
+      "endpoint": "",
+      "bucket": "",
+      "region": "auto",
+      "customDomain": ""
+    }
+  },
+  "imageQuality": {
+    "webp": 80,
+    "avif": 75,
+    "pngOptimize": true
   }
 }
